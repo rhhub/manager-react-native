@@ -1,5 +1,8 @@
 {
-    "extends": "rallycoding"
+    "extends": "rallycoding",
+    "rules": {
+        "arrow-body-style": 0
+    }
 }
 
 # 'project directory' npm install --save-dev eslint-config-rallycoding
